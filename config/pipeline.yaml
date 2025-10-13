@@ -1,0 +1,5 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+load:
+  output_filename: ventas_regionales.csv
