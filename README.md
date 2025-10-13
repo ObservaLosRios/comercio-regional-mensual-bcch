@@ -66,10 +66,7 @@ Ejecuta los cuadernos con el entorno virtual activo para garantizar versiones co
 - Si se requiere Parquet u otro formato, ajusta `config/pipeline.yaml` sin modificar la lógica central.
 - Los scripts en `scripts/` incluyen tareas operacionales como recargas históricas y generación de reportes ad-hoc.
 
-## Créditos
+## Ejecución
 
-Proyecto concebido y mantenido por el equipo de análisis territorial de Observa Los Ríos. Para consultas o contribuciones escribe a `contacto@observalosrios.cl`.
+Proyecto concebido y mantenido por el equipo de análisis territorial de Observa Los Ríos. Cer UACh
 
-## Licencia
-
-Define aquí la licencia definitiva al momento de la publicación.
