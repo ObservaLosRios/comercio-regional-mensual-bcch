@@ -80,11 +80,7 @@ Ejecuta los cuadernos con el entorno virtual activo para mantener compatibilidad
 
 Proyecto desarrollado por Observa Los Ríos. Para soporte o consultas escribe a `contacto@observalosrios.cl`.
 
-<<<<<<< HEAD
 ## Ejecución
 
 Proyecto concebido y mantenido por el equipo de análisis territorial de Observa Los Ríos. Cer UACh
 
-=======
-La licencia se definirá antes de la publicación oficial.
->>>>>>> 5e9c133 (Compras, ventas regional $ x mes)
